@@ -70,6 +70,9 @@ The datasets were merged using common columns (`Full_Name`, `Sports`, `Country`)
 
 **Objective:** Analyze the average age of medal-winning athletes across sports, highlighting gender differences in peak performance.
 
+<img width="584" alt="Image" src="https://github.com/user-attachments/assets/8ffbdf02-da15-43f6-a398-4f85eb421812" />
+
+
 **Insights:**
 
 - Identifies sport-specific age trends.
@@ -78,6 +81,9 @@ The datasets were merged using common columns (`Full_Name`, `Sports`, `Country`)
 ### 2. Athletes Who Won Multiple Medals In A Particular Sport
 
 **Objective:** Showcase athletes excelling in their respective sports by winning multiple medals.
+
+
+<img src="https://github.com/user-attachments/assets/4bc7127a-5768-4333-a960-f28c2c12a7d1" width="400" height="300" />
 
 **Insights:**
 
@@ -88,6 +94,10 @@ The datasets were merged using common columns (`Full_Name`, `Sports`, `Country`)
 
 **Objective:** Visualize the top-performing countries by total medal count, categorizing by Gold, Silver, and Bronze.
 
+
+<img src="https://github.com/user-attachments/assets/a3228e46-3619-43de-9b98-38034bbb2c35" width="400" height="300" />
+
+
 **Insights:**
 
 - Identifies leading nations in international competitions.
@@ -96,6 +106,10 @@ The datasets were merged using common columns (`Full_Name`, `Sports`, `Country`)
 ### 4. Analyzing the Relationship Between Athlete Heights and Their Sports
 
 **Objective:** Compare the height distributions of male and female athletes across different sports.
+
+
+<img src="https://github.com/user-attachments/assets/15b29160-7fa7-4787-8414-a7e2d9277b22" width="400" height="300" />
+
 
 **Insights:**
 
