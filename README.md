@@ -104,13 +104,25 @@ The datasets were merged using common columns (`Full_Name`, `Sports`, `Country`)
 
 ---
 
+
 ## Conclusion
 
-This project offers a comprehensive analysis of Olympic data, providing valuable insights into:
+The analysis of Olympic datasets has provided significant insights into the performance trends of athletes and countries. Key takeaways include:
 
-- Performance patterns by country and sport.
-- Age and physical attributes of medal-winning athletes.
-- Athlete dominance and country-wise medal trends.
+1. **Age Trends:**
+   - Different sports favor athletes of varying age groups, with gymnastics and skateboarding favoring younger athletes, and equestrian events favoring older athletes.
+
+2. **Multiple Medal Winners:**
+   - Athletes such as Summer McINTOSH and Leon MARCHAND showcased exceptional achievements by winning multiple medals in their respective sports.
+
+3. **Country Performance:**
+   - The top 10 countries by medal count highlighted dominance by USA and China, with Japan excelling in gold medal ratios.
+
+4. **Height Correlation:**
+   - Trends in height were observed, with taller athletes excelling in sports requiring reach, while shorter athletes performed well in agility-based disciplines.
+
+These findings provide valuable insights for athletes, coaches, and sports organizations to optimize training strategies and talent identification.
+
 
 
 
