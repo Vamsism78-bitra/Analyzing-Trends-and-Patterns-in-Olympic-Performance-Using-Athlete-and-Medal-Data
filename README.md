@@ -112,20 +112,5 @@ This project offers a comprehensive analysis of Olympic data, providing valuable
 - Age and physical attributes of medal-winning athletes.
 - Athlete dominance and country-wise medal trends.
 
-For more details and visualizations, explore our repository.
 
-**Get Started:**
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/olympics-analysis.git
-   ```
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Run the analysis scripts.
-
----
-
-Enjoy exploring Olympic data with us!
