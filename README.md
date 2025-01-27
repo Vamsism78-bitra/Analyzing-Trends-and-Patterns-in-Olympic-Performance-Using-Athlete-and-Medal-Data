@@ -118,6 +118,15 @@ The datasets were merged using common columns (`Full_Name`, `Sports`, `Country`)
 
 ---
 
+## Tools Used
+
+1. **RStudio:** For data analysis and visualization.
+2. **Power BI:** For creating interactive reports and dashboards.
+   - [Power BI Report Click](https://app.powerbi.com/view?r=eyJrIjoiMWM2NWZlMzktMGQ4ZS00OGQyLTlhN2ItNGMzZGQxODk5NmY5IiwidCI6ImViNjExMmQ1LTcyMmQtNDg1Ny1iODM0LTI2NDc2NmM4MTY0MyIsImMiOjh9)
+
+<img width="740" alt="Image" src="https://github.com/user-attachments/assets/28c9e7ee-ac75-4df7-b20a-0bf8c2863a16" />
+
+
 
 ## Conclusion
 
